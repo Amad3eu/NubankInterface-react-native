@@ -9,8 +9,8 @@
     "dependencies": {
         "axios": "1.1.2",
         "prop-types": "15.7.2",
-        "react": "16.8.3",
-        "react-native": "0.59.5",
+        "react": "16.14.0",
+        "react-native": "0.70.6",
         "react-native-gesture-handler": "1.2.0",
         "react-native-iphone-x-helper": "1.2.0",
         "react-native-qrcode": "0.2.7",
@@ -34,7 +34,7 @@
         "eslint-plugin-react-native": "3.7.0",
         "jest": "24.9.0",
         "metro-react-native-babel-preset": "0.73.0",
-        "react-test-renderer": "16.8.3"
+        "react-test-renderer": "16.14.0"
     },
     "jest": {
         "preset": "react-native"
