@@ -20,8 +20,8 @@
         "styled-components": "4.4.1"
     },
     "devDependencies": {
-        "@babel/core": "7.19.3",
-        "@babel/runtime": "7.19.0",
+        "@babel/core": "7.23.6",
+        "@babel/runtime": "7.23.6",
         "babel-eslint": "10.1.0",
         "babel-jest": "24.9.0",
         "babel-plugin-root-import": "6.6.0",
